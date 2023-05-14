@@ -1,0 +1,19 @@
+{
+  "name": "kosu.js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ToastedToast (https://toasted.is-a.dev/)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.4"
+  }
+}
